@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+}
+
+.left, .right {
+    width: 50%;
+}
+
+.left {
+    background: #56b9f7 no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+
+.items{
+    height: fit-content;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    
+}
+
+.item {
+    padding: 15px;
+}
+
+.icons{
+    height: fit-content;
+    position: relative;
+    top: 30%;
+    left: 15px;
+}
+
+.label {
+    font-family: sans-serif;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input{
+    margin: 10px 0px;
+    width: fit-content;
+    padding: 1%;
+    border-radius: 3px;
+    border: 1px solid #c9c9c9;
+    background-color:rgb(248, 245, 245);
+}
+
+.button{
+    color: white;
+    background-color: rgb(33, 139, 245);
+    border-radius: 20px;
+    border: none;
+    width:  fit-content;
+}
+
+.top {
+    position: relative;
+    top: 15px;
+    text-align: center;
+}
+
+.center {
+    position: relative;
+    left: 40px;
+    padding: 30px 60px;
+}
+
+.center h1, .center h3{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.center.input {
+    position: relative;
+    display: inline-block;
+}
+
+.bird-icon {
+    position: relative;
+    top: 20px;
+}
+
+img {
+    position: relative;
+    top: 5px;
+}

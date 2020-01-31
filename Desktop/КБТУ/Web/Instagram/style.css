@@ -1,0 +1,110 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #FAFAFA;
+    overflow-x: hidden;
+}
+
+.left-phone {
+    position: absolute;
+    left: 15%;
+    top: 60px;
+}
+
+#right{
+    position: absolute;
+    right: 15%;
+    top: 5%;
+}
+
+img{
+    padding: 7% 15%;
+    height: 55%;
+    width: 55%;
+}
+
+.white-element{
+    height: fit-content;
+    width: 275px;
+    background-color:  white;
+    border: 1px solid #dddddd;
+    border-radius: 1px;
+    text-align: center;
+    padding: 2% 5%;
+    margin: 2% 5%;
+    position: relative;
+    top: 10%;
+    right: 50%;
+}
+
+.white-element h1{
+    font-family: Lobster, sans-serif;
+}
+
+.white-element h2, .white-element h3{
+    color: #b5b5b5;
+    font-family: sans-serif;
+}
+
+.white-element h2{
+    font-size: medium;
+}
+
+.white-element h3{
+    font-size: small;
+}
+
+input{
+    margin: 10px 0px;
+    width: 66%;
+    padding: 1%;
+    border-radius: 3px;
+    border: 1px solid #b5b5b5;
+    background-color:rgb(240, 238, 238);
+}
+
+#fb-logo{
+    width: 15px;
+    height: 15px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.button{
+    color: white;
+    background-color: rgb(33, 139, 245);
+    border-radius: 5px;
+    border: none;
+    padding: 3% 15%;
+    width:  fit-content;
+}
+
+footer{
+    text-align: left;
+    padding: 60px 20px 10px 20px;
+    position: relative;
+    top: 100vh;
+    width: 100%;
+}
+
+footer a{
+    padding: 5px 10px;
+    text-decoration: none;
+    color: darkblue;
+    font-family: sans-serif;
+}
+
+footer a:hover{
+    text-decoration: none;
+}
+
+footer a:visited{
+    text-decoration: none;
+    color: rgb(94, 15, 94);
+}
+
+#rights{
+    font-size: medium;
+    color: #a3a3a3;
+}
