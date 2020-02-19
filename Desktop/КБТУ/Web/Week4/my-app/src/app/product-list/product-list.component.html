@@ -1,0 +1,27 @@
+<h2>Products</h2>
+
+<div *ngFor="let product of products">
+  <div class="product">
+    <img *ngIf="product.imagesLinks" [src]="product.imagesLinks" [alt]="product.name">
+    <div class="product-text">
+
+      <a [href]="product.link">
+        <h3>
+          {{ product.name }}
+        </h3>
+      </a>
+
+      <p>
+        <span *ngIf="product.rating != 0">Rating:
+          {{ product.rating }}<br>
+        </span>
+        <span>Price: {{ product.price }} $ <br></span>
+      </p>
+
+      <a id="share" href="//vk.com/share.php?url={{product.link}}&text=<TEXT>">
+        Share
+      </a>
+
+    </div>
+  </div>
+</div>
