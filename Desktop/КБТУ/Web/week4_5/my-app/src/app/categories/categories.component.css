@@ -1,0 +1,40 @@
+#category-list{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.category{
+  position: relative;
+  box-sizing: border-box;
+  border: #818689;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin: 30px;
+}
+
+.category h2{
+  text-align: center;
+  margin: 5px;
+}
+
+.category img {
+  margin-top: 20%;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.category a{
+  text-decoration: none;
+  color: black;
+}
+
+.category a:visited{
+  text-decoration: none;
+  color: grey;
+}
+
+.category-inside {
+  margin: 10px;
+}

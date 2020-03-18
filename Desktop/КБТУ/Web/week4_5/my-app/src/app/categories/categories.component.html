@@ -1,0 +1,12 @@
+<div class="category">
+  <div id="category-list">
+    <div class='category-inside' *ngFor = "let category of categories">
+      <a routerLink="/categories/{{ category.id }}/products">
+        <img *ngIf="category.imagesLinks" [src]="category.imagesLinks" [alt]="category.name">
+        <h2>{{category.name}}</h2>
+      </a>
+    </div>
+  </div>
+</div>
+
+

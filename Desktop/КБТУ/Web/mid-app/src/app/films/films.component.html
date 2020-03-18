@@ -1,0 +1,8 @@
+<div class="films">
+    <h1>Kim Yevgeniya 18BD110606</h1>
+    <div class='films-inside' *ngFor = "let film of films">
+      <a routerLink="/films/{{ film.id }}/description">
+        <h2>{{film.title}}</h2>
+      </a>
+    </div>
+</div>

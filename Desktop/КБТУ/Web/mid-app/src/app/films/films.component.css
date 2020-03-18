@@ -1,0 +1,17 @@
+.films h2{
+  margin: 5px;
+}
+
+.films a{
+  text-decoration: none;
+  color: black;
+}
+
+.films a:visited{
+  text-decoration: none;
+  color: grey;
+}
+
+.films-inside {
+  margin: 10px;
+}
