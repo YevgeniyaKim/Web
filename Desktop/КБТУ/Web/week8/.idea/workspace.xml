@@ -26,8 +26,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/informatics/part1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.308">
-    <configuration name="306" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.python_if-else">
+    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -35,12 +35,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/informatics/part5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/informatics/part5/306.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/list_comprehensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +49,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="307" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +57,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/informatics/part5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/informatics/part5/307.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="308" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/informatics/part5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/informatics/part5/308.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/print_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="68" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_if-else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/informatics/part4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/informatics/part4/68.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python_if-else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="69" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="runner-up_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/informatics/part4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/informatics/part4/69.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/runner-up_score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.308" />
-        <item itemvalue="Python.307" />
-        <item itemvalue="Python.306" />
-        <item itemvalue="Python.68" />
-        <item itemvalue="Python.69" />
+        <item itemvalue="Python.python_if-else" />
+        <item itemvalue="Python.runner-up_score" />
+        <item itemvalue="Python.list_comprehensions" />
+        <item itemvalue="Python.print_function" />
+        <item itemvalue="Python.loops" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584531741012</updated>
       <workItem from="1584531749118" duration="9420000" />
-      <workItem from="1584553005770" duration="6388000" />
+      <workItem from="1584553005770" duration="6950000" />
+      <workItem from="1584596001777" duration="3975000" />
     </task>
     <servers />
   </component>
@@ -174,36 +175,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584533446854" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584559454595">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584600480390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584559454595" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584559454595">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584600480390" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584600480390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584559454595" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584559454595">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584600480390" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584600480390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584559454595" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584559454595">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584600480390" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584600480390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584559454595" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584600480390" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1584533561196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584533561196" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584553050168">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584596364169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584553050168" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584596364169" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1584536279368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584536279368" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/week8$arithmetic_operations.coverage" NAME="arithmetic_operations Coverage Results" MODIFIED="1584597405047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/week8$3059.coverage" NAME="3059 Coverage Results" MODIFIED="1584555136386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/while" />
     <SUITE FILE_PATH="coverage/week8$306.coverage" NAME="306 Coverage Results" MODIFIED="1584559064000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part5" />
     <SUITE FILE_PATH="coverage/week8$68.coverage" NAME="68 Coverage Results" MODIFIED="1584558866166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part4" />
@@ -212,6 +214,7 @@
     <SUITE FILE_PATH="coverage/week8$2938.coverage" NAME="2938 Coverage Results" MODIFIED="1584536157768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part1" />
     <SUITE FILE_PATH="coverage/week8$2940.coverage" NAME="2940 Coverage Results" MODIFIED="1584537527226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part1" />
     <SUITE FILE_PATH="coverage/week8$65.coverage" NAME="65 Coverage Results" MODIFIED="1584556552166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part4" />
+    <SUITE FILE_PATH="coverage/week8$print_function.coverage" NAME="print_function Coverage Results" MODIFIED="1584598056898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/week8$343.coverage" NAME="343 Coverage Results" MODIFIED="1584554493281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/for" />
     <SUITE FILE_PATH="coverage/week8$63.coverage" NAME="63 Coverage Results" MODIFIED="1584556150066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part4" />
     <SUITE FILE_PATH="coverage/week8$69.coverage" NAME="69 Coverage Results" MODIFIED="1584558643021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part4" />
@@ -222,6 +225,7 @@
     <SUITE FILE_PATH="coverage/week8$292.coverage" NAME="292 Coverage Results" MODIFIED="1584543675239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part2" />
     <SUITE FILE_PATH="coverage/week8$2937.coverage" NAME="2937 Coverage Results" MODIFIED="1584535706761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part1" />
     <SUITE FILE_PATH="coverage/week8$340.coverage" NAME="340 Coverage Results" MODIFIED="1584553847273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/for" />
+    <SUITE FILE_PATH="coverage/week8$list_comprehensions.coverage" NAME="list_comprehensions Coverage Results" MODIFIED="1584598605270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/week8$2936.coverage" NAME="2936 Coverage Results" MODIFIED="1584535666403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part1" />
     <SUITE FILE_PATH="coverage/week8$2939.coverage" NAME="2939 Coverage Results" MODIFIED="1584536302065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part1" />
     <SUITE FILE_PATH="coverage/week8$342.coverage" NAME="342 Coverage Results" MODIFIED="1584554217043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/for" />
@@ -231,9 +235,13 @@
     <SUITE FILE_PATH="coverage/week8$253.coverage" NAME="253 Coverage Results" MODIFIED="1584548665402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part2" />
     <SUITE FILE_PATH="coverage/week8$3061.coverage" NAME="3061 Coverage Results" MODIFIED="1584555969093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/while" />
     <SUITE FILE_PATH="coverage/week8$333.coverage" NAME="333 Coverage Results" MODIFIED="1584549966087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/for" />
+    <SUITE FILE_PATH="coverage/week8$runner_up_score.coverage" NAME="runner-up_score Coverage Results" MODIFIED="1584599551557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/week8$2960.coverage" NAME="2960 Coverage Results" MODIFIED="1584548890818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part2" />
     <SUITE FILE_PATH="coverage/week8$2959.coverage" NAME="2959 Coverage Results" MODIFIED="1584549240821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part2" />
     <SUITE FILE_PATH="coverage/week8$3058.coverage" NAME="3058 Coverage Results" MODIFIED="1584554941970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part3/while" />
     <SUITE FILE_PATH="coverage/week8$67.coverage" NAME="67 Coverage Results" MODIFIED="1584557339239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/informatics/part4" />
+    <SUITE FILE_PATH="coverage/week8$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1584597088530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/week8$loops.coverage" NAME="loops Coverage Results" MODIFIED="1584597732562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/week8$python_if_else.coverage" NAME="python_if-else Coverage Results" MODIFIED="1584600480375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
   </component>
 </project>
