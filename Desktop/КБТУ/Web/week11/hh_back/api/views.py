@@ -35,7 +35,7 @@ def company_vacancies(request, company_id):
 
 def vacancies(request):
     return JsonResponse(
-        [v for v in Vacancy.objects.all()], safe=False
+        [v.to_json() for v in Vacancy.objects.all()], safe=False
     )
 
 
