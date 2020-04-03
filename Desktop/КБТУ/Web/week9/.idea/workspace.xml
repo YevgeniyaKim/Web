@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop/shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week11/hh_back" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RunManager">
@@ -82,7 +82,9 @@
       <updated>1585132802784</updated>
       <workItem from="1585132823188" duration="1951000" />
       <workItem from="1585149297532" duration="3435000" />
-      <workItem from="1585202214474" duration="6636000" />
+      <workItem from="1585202214474" duration="7246000" />
+      <workItem from="1585868536363" duration="29000" />
+      <workItem from="1585869269600" duration="2359000" />
     </task>
     <servers />
   </component>
@@ -102,10 +104,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585134167894" />
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585134092290">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585869382332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585134092290" />
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585869382332" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1585221193921">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,9 +116,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585134100781" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585202226748">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585869275173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585202226748" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585869275173" />
   </component>
 </project>
