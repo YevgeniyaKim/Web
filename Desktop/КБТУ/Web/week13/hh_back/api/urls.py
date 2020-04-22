@@ -1,12 +1,14 @@
-from django.urls import path, re_path
-# from .views.views_fbv import *
-from .views.views_cbv import *
+from django.urls import path
+from .views.views import *
+
+from rest_framework_jwt.views import obtain_jwt_token
 
 urlpatterns = [
-    path('companies/', CompanyListAPIView.as_view()),
-    path('companies/<int:company_id>/', CompanyDetailAPIView.as_view()),
-    path('companies/<int:company_id>/vacancies/', CompanyWithVacanciesListAPView.as_view()),
+    path('login/', obtain_jwt_token),
+    path('companies/', companies),
+    path('companies/<int:company_id>/', company),
+    path('companies/<int:company_id>/vacancies/', company_vacancies),
     path('vacancies/', VacancyListAPIView.as_view()),
     path('vacancies/<int:vacancy_id>/', VacancyDetailAPIView.as_view()),
-    # path('vacancies/top_ten/', vacancies_top10)
+    path('vacancies/top_ten/', VacancyTopTenAPIView.as_view())
 ]
