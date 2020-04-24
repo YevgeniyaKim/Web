@@ -2,6 +2,7 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from rest_framework.permissions import IsAuthenticated
 
 from api.models import Company, Vacancy
 from api.serializers import CompanySerializer, VacancySerializer
@@ -23,6 +24,7 @@ def companies(request):
 
         return Response({'error': serializer.errors},
                         status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    permission_classes = IsAuthenticated
 
 
 @api_view(['GET', 'PUT', 'DELETE'])

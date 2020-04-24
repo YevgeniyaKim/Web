@@ -1,0 +1,9 @@
+<!--<div *ngFor="let company of companies">-->
+<!--  <h1><a routerLink="/companies/{{company.id}}/vacancies">{{company.name}}</a></h1>-->
+<!--  <h2><b>City:</b> {{company.city}}</h2>-->
+<!--  <h2><b>Address:</b> {{company.address}}</h2>-->
+<!--  <p>{{company.description}}</p>-->
+<!--</div>-->
+<div *ngFor="let company of companies">
+  <a [routerLink]="'/company/' + company.id">{{ company.name }}</a>
+</div>
